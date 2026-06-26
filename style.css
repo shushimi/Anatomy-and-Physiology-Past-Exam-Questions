@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+/* ============================
+   暗記マーカーのスタイル
+   ============================ */
+.mask {
+  background-color: #4b5563; /* 隠れている時の色 */
+  color: #4b5563;
+  padding: 0px 6px;
+  margin: 0px 2px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  user-select: none;
+}
+
+.mask.revealed {
+  background-color: #fef2f2; /* タップ後の背景色 */
+  color: #dc2626; /* タップ後の文字色 */
+  font-weight: bold;
+}
+
+/* ============================
+   Markdown変換後のテキストスタイル
+   ============================ */
+h2 { 
+  font-size: 1.5rem; 
+  font-weight: bold; 
+  margin-top: 2rem; 
+  margin-bottom: 0.75rem; 
+  border-bottom: 2px solid #e5e7eb; 
+  padding-bottom: 0.5rem; 
+}
+h3 { 
+  font-size: 1.15rem; 
+  font-weight: bold; 
+  margin-top: 1.5rem; 
+  margin-bottom: 0.5rem; 
+  color: #1e3a8a; 
+}
+p { 
+  margin-bottom: 0.75rem; 
+  line-height: 1.7; 
+}
+ul { 
+  list-style-type: disc; 
+  padding-left: 1.5rem; 
+  margin-bottom: 1rem; 
+  line-height: 1.7; 
+}
+li { 
+  margin-bottom: 0.5rem; 
+}
+.note { 
+  background-color: #fffbeb; 
+  padding: 1rem; 
+  border-radius: 0.5rem; 
+  border-left: 4px solid #f59e0b; 
+  margin-top: 1rem; 
+  margin-bottom: 1rem; 
+}
