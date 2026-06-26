@@ -36,9 +36,7 @@ export const questions1 = [
       "冷覚受容器――Aδ線維",
       "痛覚受容器――C線維"
     ],
-    "correctAnswers": [
-      1
-    ]
+    "correctAnswers": [1]
   },
   {
     "id": 6,
@@ -49,9 +47,7 @@ export const questions1 = [
       "伝導速度は温度変化に影響されない。",
       "伝導速度は軸索の太さに比例する。"
     ],
-    "correctAnswers": [
-      3
-    ]
+    "correctAnswers": [3]
   },
   {
     "id": 7,
@@ -62,9 +58,7 @@ export const questions1 = [
       "神経膠細胞",
       "シュワン細胞"
     ],
-    "correctAnswers": [
-      3
-    ]
+    "correctAnswers": [3]
   },
   {
     "id": 8,
@@ -75,9 +69,7 @@ export const questions1 = [
       "髄鞘は絶縁性が高い。",
       "中枢神経内のグリア細胞の数はニューロンより少ない。"
     ],
-    "correctAnswers": [
-      3
-    ]
+    "correctAnswers": [3]
   },
   {
     "id": 9,
@@ -88,9 +80,7 @@ export const questions1 = [
       "星状膠細胞",
       "小膠細胞"
     ],
-    "correctAnswers": [
-      2
-    ]
+    "correctAnswers": [2]
   },
   {
     "id": 10,
@@ -101,9 +91,7 @@ export const questions1 = [
       "痛覚",
       "運動"
     ],
-    "correctAnswers": [
-      3
-    ]
+    "correctAnswers": [3]
   },
   {
     "id": 11,
@@ -114,9 +102,7 @@ export const questions1 = [
       "ナトリウムイオン",
       "カリウムイオン"
     ],
-    "correctAnswers": [
-      2
-    ]
+    "correctAnswers": [2]
   },
   {
     "id": 12,
@@ -127,9 +113,7 @@ export const questions1 = [
       "筋紡錘――Ⅲ群求心性線維",
       "侵害受容器――Ⅳ群求心性線維"
     ],
-    "correctAnswers": [
-      2
-    ]
+    "correctAnswers": [2]
   },
   {
     "id": 13,
@@ -140,9 +124,7 @@ export const questions1 = [
       "星状膠細胞は血球に由来する。",
       "シュワン細胞が髄鞘形成にあたる。"
     ],
-    "correctAnswers": [
-      0
-    ]
+    "correctAnswers": [0]
   },
   {
     "id": 14,
@@ -153,9 +135,7 @@ export const questions1 = [
       "ナトリウムイオン",
       "マグネシウムイオン"
     ],
-    "correctAnswers": [
-      2
-    ]
+    "correctAnswers": [2]
   },
   {
     "id": 15,
@@ -166,9 +146,7 @@ export const questions1 = [
       "星状膠細胞",
       "希突起膠細胞"
     ],
-    "correctAnswers": [
-      3
-    ]
+    "correctAnswers": [3]
   },
   {
     "id": 16,
@@ -179,9 +157,7 @@ export const questions1 = [
       "活動電位の大きさは伝導の途中で減衰する。",
       "有髄線維では跳躍伝導が起こる。"
     ],
-    "correctAnswers": [
-      3
-    ]
+    "correctAnswers": [3]
   },
   {
     "id": 17,
@@ -192,9 +168,7 @@ export const questions1 = [
       "絶縁性伝導",
       "一方向性伝導"
     ],
-    "correctAnswers": [
-      2
-    ]
+    "correctAnswers": [2]
   },
   {
     "id": 18,
@@ -205,9 +179,7 @@ export const questions1 = [
       "副交感神経は汗腺を支配する。",
       "運動神経は求心性神経である。"
     ],
-    "correctAnswers": [
-      0
-    ]
+    "correctAnswers": [0]
   },
   {
     "id": 19,
@@ -218,9 +190,7 @@ export const questions1 = [
       "一方向に伝達される。",
       "樹状突起から伝達物質が放出される。"
     ],
-    "correctAnswers": [
-      3
-    ]
+    "correctAnswers": [3]
   },
   {
     "id": 20,
@@ -231,9 +201,7 @@ export const questions1 = [
       "交感神経",
       "副交感神経"
     ],
-    "correctAnswers": [
-      1
-    ]
+    "correctAnswers": [1]
   },
   {
     "id": 21,
@@ -244,9 +212,7 @@ export const questions1 = [
       "B線維",
       "C線維"
     ],
-    "correctAnswers": [
-      3
-    ]
+    "correctAnswers": [3]
   },
   {
     "id": 22,
@@ -257,9 +223,7 @@ export const questions1 = [
       "一方向性伝導をする。",
       "太い線維ほど伝導速度が速い。"
     ],
-    "correctAnswers": [
-      2
-    ]
+    "correctAnswers": [2]
   },
   {
     "id": 23,
@@ -270,9 +234,7 @@ export const questions1 = [
       "骨格筋線維",
       "心筋線維"
     ],
-    "correctAnswers": [
-      1
-    ]
+    "correctAnswers": [1]
   },
   {
     "id": 24,
@@ -283,9 +245,7 @@ export const questions1 = [
       "興奮は飛び飛びに伝導する。",
       "興奮の大きさは減衰しない。"
     ],
-    "correctAnswers": [
-      1
-    ]
+    "correctAnswers": [1]
   },
   {
     "id": 25,
@@ -296,9 +256,7 @@ export const questions1 = [
       "自律神経系には遠心性神経はない。",
       "脊髄神経は自律神経を含まない。"
     ],
-    "correctAnswers": [
-      1
-    ]
+    "correctAnswers": [1]
   },
   {
     "id": 26,
@@ -309,9 +267,7 @@ export const questions1 = [
       "不減衰伝導",
       "両側性伝導"
     ],
-    "correctAnswers": [
-      1
-    ]
+    "correctAnswers": [1]
   },
   {
     "id": 27,
@@ -322,9 +278,7 @@ export const questions1 = [
       "全か無の法則に従う。",
       "膜電位の正方向への変化は脱分極と呼ばれる。"
     ],
-    "correctAnswers": [
-      1
-    ]
+    "correctAnswers": [1]
   },
   {
     "id": 28,
@@ -335,9 +289,7 @@ export const questions1 = [
       "自律神経節後線維でもある。",
       "温度覚は伝えない。"
     ],
-    "correctAnswers": [
-      2
-    ]
+    "correctAnswers": [2]
   },
   {
     "id": 29,
@@ -348,9 +300,7 @@ export const questions1 = [
       "ミエリンがある。",
       "無髄神経より興奮伝導が速い。"
     ],
-    "correctAnswers": [
-      1
-    ]
+    "correctAnswers": [1]
   },
   {
     "id": 30,
@@ -361,9 +311,7 @@ export const questions1 = [
       "伝導速度は温度の影響を受ける。",
       "興奮は隣接する神経線維に伝わる。"
     ],
-    "correctAnswers": [
-      3
-    ]
+    "correctAnswers": [3]
   },
   {
     "id": 31,
@@ -374,9 +322,7 @@ export const questions1 = [
       "絶縁性伝導",
       "両方向性伝導"
     ],
-    "correctAnswers": [
-      0
-    ]
+    "correctAnswers": [0]
   },
   {
     "id": 32,
@@ -387,9 +333,7 @@ export const questions1 = [
       "太い線維ほど速く伝導する。",
       "絶縁性伝導をする。"
     ],
-    "correctAnswers": [
-      1
-    ]
+    "correctAnswers": [1]
   },
   {
     "id": 33,
@@ -400,9 +344,7 @@ export const questions1 = [
       "0 mV",
       "－80 mV"
     ],
-    "correctAnswers": [
-      3
-    ]
+    "correctAnswers": [3]
   },
   {
     "id": 34,
@@ -413,9 +355,7 @@ export const questions1 = [
       "ランビエの絞輪で発生する。",
       "振幅は伝導中に変化する。"
     ],
-    "correctAnswers": [
-      3
-    ]
+    "correctAnswers": [3]
   },
   {
     "id": 35,
@@ -426,9 +366,7 @@ export const questions1 = [
       "感覚神経は遠心性神経である。",
       "運動神経はA線維である。"
     ],
-    "correctAnswers": [
-      3
-    ]
+    "correctAnswers": [3]
   },
   {
     "id": 36,
@@ -439,9 +377,7 @@ export const questions1 = [
       "心筋線維",
       "骨格筋線維"
     ],
-    "correctAnswers": [
-      1
-    ]
+    "correctAnswers": [1]
   },
   {
     "id": 37,
@@ -452,9 +388,7 @@ export const questions1 = [
       "グリア細胞は活動電位によって情報を伝達する。",
       "神経細胞の軸索内では物質が輸送される。"
     ],
-    "correctAnswers": [
-      3
-    ]
+    "correctAnswers": [3]
   },
   {
     "id": 38,
@@ -465,9 +399,7 @@ export const questions1 = [
       "伝導速度は神経線維が太いほど遅い。",
       "有髄線維では跳躍伝導が起こる。"
     ],
-    "correctAnswers": [
-      3
-    ]
+    "correctAnswers": [3]
   },
   {
     "id": 39,
@@ -478,9 +410,7 @@ export const questions1 = [
       "シュワン細胞",
       "線維芽細胞"
     ],
-    "correctAnswers": [
-      2
-    ]
+    "correctAnswers": [2]
   },
   {
     "id": 40,
@@ -491,8 +421,6 @@ export const questions1 = [
       "興奮の大きさは伝導の途中で減衰する。",
       "有髄線維では跳躍伝導が起こる。"
     ],
-    "correctAnswers": [
-      3
-    ]
+    "correctAnswers": [3]
   }
 ];
